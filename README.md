@@ -1,4 +1,6 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/weilbith/nerdtree_choosewin-plugin)
+[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)](https://github.com/weilbith/nerdtree_choosewin-plugin)
+[![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)](https://github.com/weilbith/nerdtree_choosewin-plugin)
 
 # Choosewin for NERDTree
 
