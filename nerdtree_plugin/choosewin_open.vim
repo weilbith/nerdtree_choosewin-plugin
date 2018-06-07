@@ -24,7 +24,7 @@ function! ChooseWinOpen(node) abort
   let l:nerdwindow = win_getid()
 
   " Check if choosewin has been loaded.
-  if !exists('g:loaded_choosewin')
+  if exists('g:loaded_choosewin')
     call choosewin#start(range(1, winnr('$')))
 
   else
